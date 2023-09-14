@@ -1,0 +1,71 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Merriweather:wght@700&family=Poppins&family=Rowdies:wght@700&family=Rubik+Iso&display=swap');
+.featured{
+    display: grid ;
+    grid-template-columns: 1fr 1fr;
+    background-color: #0C0C0C;
+    background: linear-gradient(135deg, #000000, #000000 60%, #f6db78);
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 10px;     
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+}
+.feat_discription{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+}
+.title{
+    margin-left: 5px;
+    margin-top: 20px;
+    color: #f6db78;
+    font-family: "Rowdies";
+    font-weight: 700;
+    font-size: 2.7rem;
+}
+.feat_image{
+    max-height: 500px;
+    margin: 0;
+    padding: 0;
+
+}
+.feat_discription span{
+    font-size: 1.2rem;
+    line-height: 1.5;
+    color: #e7e3de;
+    margin-bottom: 20px;
+}
+button{
+    width: 150px;
+    height: 50px;
+    border:0;
+    padding: 5px 15px;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight:500;
+    font-size: large;
+}
+.addToCartButton {
+    background-color: #f6db78;
+    color: #000000;
+    border: 1px solid #000000;     
+    transition: background-color 0.3s;   }
+  
+  .addToCartButton:hover {
+    background-color: #e2c569;   }
+  .learnMoreButton {
+    background-color: #000000;
+    color: #f6db78;
+    border: 1px solid #f6db78;     
+    transition: background-color 0.3s;   }
+  
+  .learnMoreButton:hover {
+    background-color: #333333;   }
+    

@@ -1,0 +1,20 @@
+.about-container {
+    display: flex;
+    align-items: flex-start; 
+  }
+  
+  .about-image {
+    float: left;     margin: 20px;     max-width: 250px;   }
+  
+  .about-text {
+    flex: 1;   }
+  h2{
+    color: white;
+    font-size: 38px;
+    margin: 20px;
+  }
+  p{
+    color: white;
+    margin-right: 40px;
+  }
+    

@@ -1,0 +1,105 @@
+[
+    {
+        "title": "To Pimp a Butterfly",
+        "Artist": "Kendrick Lamar",
+        "description": "",
+        "price": "23.75",
+        "pic_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png/220px-Kendrick_Lamar_-_To_Pimp_a_Butterfly.png"
+    },
+    {
+        "title": "Television",
+        "Artist": "Marquee Moon",
+        "description": "",
+        "price": "20.50",
+        "pic_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Marquee_moon_album_cover.jpg/220px-Marquee_moon_album_cover.jpg"
+    },
+    {
+        "title": "So Tonight That I Might See",
+        "Artist": "Mazzy Star",
+        "description": "",
+        "price": "24.25",
+        "pic_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Mazzy_Star-So_Tonight_That_I_Might_See.jpg/220px-Mazzy_Star-So_Tonight_That_I_Might_See.jpg"
+    },
+    {
+        "title": "Yessir Whatever",
+        "Artist": "Quasimoto (Madlib)",
+        "description": "",
+        "price": "21.99",
+        "pic_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Quasimoto_Yessir_Whatever.jpg/220px-Quasimoto_Yessir_Whatever.jpg"
+    },
+    {
+        "title": "Dragon New Warm Mountain I Believe in You",
+        "Artist": "Big Thief",
+        "description": "",
+        "price": "22.75",
+        "pic_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Dragon_New_Warm_Mountain_I_Believe_in_You_%28Big_Thief%29.png/220px-Dragon_New_Warm_Mountain_I_Believe_in_You_%28Big_Thief%29.png"
+    },
+    {
+        "title": "Ants from Up There",
+        "Artist": "Black Country New Road",
+        "description": "",
+        "price": "22.75",
+        "pic_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Ants_from_Up_There_-_Black_Country%2C_New_Road.jpg/220px-Ants_from_Up_There_-_Black_Country%2C_New_Road.jpg"
+    },
+    {
+        "title": "Strangers in the Alps",
+        "Artist": "Phoebe Bridgers",
+        "description": "",
+        "price": "19.99",
+        "pic_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Phoebe_Bridgers_%E2%80%93_Stranger_in_the_Alps.png/220px-Phoebe_Bridgers_%E2%80%93_Stranger_in_the_Alps.png"
+    },
+    {
+        "title": "Plastic Beach",
+        "Artist": "Gorillaz",
+        "description": "",
+        "price": "23.50",
+        "pic_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Plasticbeach452.jpg/220px-Plasticbeach452.jpg"
+    },
+    {
+        "title": "Titanic Rising",
+        "Artist": "Weyes Blood",
+        "description": "",
+        "price": "25.99",
+        "pic_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Titanic_Rising.jpg/220px-Titanic_Rising.jpg"
+    },
+    {
+        "title": "The Miseducation of Lauryn Hill",
+        "Artist": "Lauryn Hill",
+        "description": "",
+        "price": "20.99",
+        "pic_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/LaurynHillTheMiseducationofLaurynHillalbumcover.jpg/220px-LaurynHillTheMiseducationofLaurynHillalbumcover.jpg"
+    },
+    {
+        "title": "Immunity",
+        "Artist": "Clairo",
+        "description": "",
+        "price": "24.75",
+        "pic_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Clairo_-_Immunity.png/220px-Clairo_-_Immunity.png"
+    },
+    {
+        "title": "Happier Than Ever",
+        "Artist": "Billie Eilish",
+        "description": "",
+        "price": "25.25",
+        "pic_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Billie_Eilish_-_Happier_Than_Ever.png/220px-Billie_Eilish_-_Happier_Than_Ever.png"
+    },
+    {
+        "title": "Blonde",
+        "Artist": "Frank Ocean",
+        "description": "",
+        "price": "22.99",
+        "pic_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Blonde_-_Frank_Ocean.jpeg/220px-Blonde_-_Frank_Ocean.jpeg"
+    },
+    {
+        "title": "Kids See Ghosts",
+        "Artist": "Kids See Ghosts",
+        "description": "",
+        "price": "21.75",
+        "pic_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Kids_See_Ghosts_Cover.png/220px-Kids_See_Ghosts_Cover.png"
+    },
+    {
+        "title": "Lift Your Skinny Fists Like Antennas to Heaven",
+        "Artist": "Godspeed You! Black Emperor",
+        "description": "",
+        "price": "24.50",
+        "pic_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Liftyrskinnyfists.jpg/220px-Liftyrskinnyfists.jpg" }]

@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Rubik+Iso&display=swap');
+
+.header{
+    width: auto;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    top: 0;
+    background-color: #0C0C0C;
+    z-index: 100;
+    position: sticky;
+
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    
+}
+.nav_element{
+    flex-direction: row;
+    color: white;
+    padding: 20px;
+    font-size: 1.2rem;
+    font-family: 'Merriweather';
+    font-weight: 700;
+}
+.header_search{
+    height: 12px;
+    padding: 10px;
+    border: none;
+    width: 100%;
+    background-color: white;
+}
+.header_logo{
+    margin: 0 20px;
+    margin-left: 5px;
+    color: white;
+    font-size: 4rem;
+    font-family: "Rubik Iso";
+    font-weight: 800;
+}
+.logo_img{
+    color: white;
+}
+.search_ic{
+    color: white;
+    font-size: 40px;
+    margin-left: 5px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    margin-left: 5px;
+    max-width: 500px;
+    flex-shrink: 5;
+}
+.search{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-right: 15px; }
+.basket{
+    color: white;
+}
+a{
+    text-decoration: none;
+}

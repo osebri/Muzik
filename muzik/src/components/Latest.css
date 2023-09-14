@@ -1,0 +1,78 @@
+
+.late_page{
+    display: grid ;
+    justify-items: center;
+    grid-template-columns:1fr 1fr 1fr 1fr ;    
+}
+.late_prods{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid #f6db78;
+    box-shadow: 0 0 10px rgba(246, 219, 120, 0.5);
+    width: 265px;
+    height: 400px;
+    position: relative;
+}
+.pic{
+   width: 250px;
+   height: auto;   
+}
+.price_cont{
+    display: flex;
+    gap : 60px;
+    padding: 10px;
+    position: absolute; 
+    bottom: 10px; 
+    left: 0;
+    right: 0;
+    justify-content: center;
+}
+
+.late_prods .title {
+    font-size: 18px;
+    font-weight: bold;
+    display: block;
+    margin: 10px 0;
+    color: #0C0C0C;
+    text-overflow: ellipsis; 
+    overflow: hidden;
+  }
+
+  .late_prods .artist {
+    font-size: 16px; 
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+
+  .late_prods .price_cont {
+    display: flex; 
+    align-items: center;
+    justify-content: center;  
+    margin-top: 10px;
+  }
+  
+ 
+  .late_prods .cart_button {
+    height: auto;
+    width: 150px;
+    font-size: 16px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #f6db78;
+    color: #000000;
+    transition: background-color 0.3s; 
+  }
+  
+  .late_prods .price {
+    font-size: 20px; 
+    font-weight: bold; 
+  }
+  .cart_button:hover {
+    background-color: #e2c569;
+  }
